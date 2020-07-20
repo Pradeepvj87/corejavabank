@@ -12,6 +12,9 @@ public class Hd extends RBI {
 		System.out.println("enter account holder name");
 			
 		}
+		private void accountype() {
+System.out.println("it is a saving account");
+		}
 		public static void main(String[] args) {
 			Hd d = new Hd();
 					d.accountName();
